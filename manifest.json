@@ -1,6 +1,6 @@
 {
-  "name": "Moviebase",
-  "short_name": "Moviebase: Discover Movies & TV Shows",
+  "name": "StreamGuide",
+  "short_name": "StreamGuide: Movies & TV Shows",
   "icons": [
     {
       "src": "/images/moviebase_app_icon_192.png",
@@ -17,11 +17,11 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.moviebase",
-      "url": "https://play.google.com/store/apps/details?id=com.moviebase"
+      "id": "app.streamguide",
+      "url": "https://play.google.com/store/apps/details?id=app.streamguide"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "description": "Explore movies & TV shows from the TMDB. Get detailed insights and track your watched episodes with Trakt."
+  "description": "Save time by quickly finding what to watch on your streaming services."
 }
